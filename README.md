@@ -1,5 +1,5 @@
 # Network-Programs-01
-Contains all networks programs(7th semester) in C++ (welcome for suggestions and commits)
+Contains Networks programs(7th semester) in C++ (welcome for suggestions and commits for the improvement)
 
 1. Mono Cipher
 2. PlayFair Cipher
